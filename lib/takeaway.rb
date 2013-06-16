@@ -4,8 +4,11 @@ class Takeaway
 	# end
 
 	DISHES = {
-		"pie" => 3.5,
-		"baked beans" => 2
+		"Pie" => 3.5,
+		"Baked Beans" => 2,
+		"Cod" => 5,
+		"Ale" => 4.75,
+		"Veg" => 0.50,
 	}
 
 	def menu
